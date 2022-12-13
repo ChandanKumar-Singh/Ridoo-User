@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "209421277077",
+    "firebase_url": "https://ridoo-taxi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ridoo-taxi",
+    "storage_bucket": "ridoo-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209421277077:android:fddbbea9138a2db68d089c",
+        "android_client_info": {
+          "package_name": "com.ridoo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuX0OduXqX-WzYGfS8QkN7-lcmjNpHwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209421277077:android:afdaa4f654c830a98d089c",
+        "android_client_info": {
+          "package_name": "com.ridoo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuX0OduXqX-WzYGfS8QkN7-lcmjNpHwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209421277077:android:6297114474447daa8d089c",
+        "android_client_info": {
+          "package_name": "in.ridoo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209421277077-per4049fecp302isacb3fep7ilubcdmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ridoo.driver",
+            "certificate_hash": "8357d64cabe51ddb4165b1dfda77eda880a8c195"
+          }
+        },
+        {
+          "client_id": "209421277077-t04rp8187g1odab29fbd2tr60k9u6mqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ridoo.driver",
+            "certificate_hash": "f06d5e78b6b11318f0ee35235d9963e15d41e825"
+          }
+        },
+        {
+          "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuX0OduXqX-WzYGfS8QkN7-lcmjNpHwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209421277077:android:083c184c2bbcd6318d089c",
+        "android_client_info": {
+          "package_name": "in.ridoo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209421277077-fm7i18aa52ptkopmt3itk749b7j3lvlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ridoo.user",
+            "certificate_hash": "8357d64cabe51ddb4165b1dfda77eda880a8c195"
+          }
+        },
+        {
+          "client_id": "209421277077-gbl2u1jnaah285gnn4m69gp2n7pu868s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ridoo.user",
+            "certificate_hash": "ad28cec0f6d474628733ca20c8145d5e1bb1e7f9"
+          }
+        },
+        {
+          "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuX0OduXqX-WzYGfS8QkN7-lcmjNpHwjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209421277077-0e4954hllkq4ro20jgd8gfu2reev3s0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
